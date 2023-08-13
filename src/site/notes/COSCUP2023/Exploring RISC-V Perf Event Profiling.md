@@ -1,7 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/coscup-2023/exploring-risc-v-perf-event-profiling/"}
+---
 
----
-{"dg-publish":true,"permalink":"/coscup-2023/exploring-riscv-v-perf-event-profiling"}
----
 
 
 > 投影片：https://t.ly/MsB51
